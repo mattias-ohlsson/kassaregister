@@ -1,5 +1,4 @@
-kassaregister
-=============
+# kassaregister
 
 Tillverkardeklarerat kassaregister med certifierad kontrollenhet
 
